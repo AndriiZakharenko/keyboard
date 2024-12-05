@@ -13,6 +13,6 @@ Made the `App` a class component with `pressedKey` in the `state`.
     ```
 - use `removeEventListener` to remove a global handler in `componentWillUnmount`.
 
-- ## Demo Links
+## Demo Links
 
 - [DEMO LINK](https://AndriiZakharenko.github.io/react_keyboard/)
